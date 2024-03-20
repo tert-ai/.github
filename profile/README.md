@@ -1,6 +1,6 @@
 ## Meet Tert 👋
 
-Tert.ai is your personalized companion for staying up to date with opportunities on Solana. 
+Tert.ai is your personalized companion for staying up to date with opportunities on Solana!
 
 Solana users often miss out on their trades and potential airdrops. Sometimes they might not know how the market is doing and at times they might struggle with certain market indicators. 
 Along with this, it is hard to track the trades that whales are making in the market.
